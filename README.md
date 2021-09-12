@@ -5,7 +5,9 @@
   - Correo: pedro.dominguez@utec.edu.pe
   - GitHub: [PedroDominguezUTEC](https://github.com/PedroDominguezUTEC)
 - Luis Izaguirre
-- Marco Wanly Obregón
+- **Marco Wanly Obregón**
+  - Correo: marco.obregon@utec.edu.pe
+  - GitHub: [Wanly13](https://github.com/wanly13)
 - Dafne Ore  
 
 
