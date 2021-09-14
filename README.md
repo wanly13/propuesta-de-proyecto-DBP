@@ -8,11 +8,11 @@
   - Correo: luis.izaguirre@utec.edu.pe
   - GitHub: [LuisIZ](https://github.com/LuisIZ)
 - **Marco Wanly Obregón**
-  - Correo: @utec.edu.pe
-  - GitHub: [-](https://github.com/)
+  - Correo: marco.obregon@utec.edu.pe
+  - GitHub: [Wanly Obregon](https://github.com/wanly13)
 - **Dafne Ore**
-  - Correo: @utec.edu.pe
-  - GitHub: [-](https://github.com/)
+  - Correo: dafne.ore@utec.edu.pe
+  - GitHub: [DafneOre](https://github.com/DafneOre)
 
 ## P1: Turismo en Lima (Aplicación Web)
 
@@ -30,3 +30,8 @@ Turismo en Lima App es una aplicación móvil que posee las mismas característi
 La motivación para crear el app se encontró en el deseo de querer ofrecer a los usuarios funcionalidades que son más cómodas de utilizar en un ambiente móvil. Por ejemplo: quizzes. Otro incentivo también es la de obtener experiencia en desarrollo móvil.
 
 La finalidad del app es la de complementar la página web y ofrecer una experiencia más cómoda a los usuarios móvil.
+
+---------------------------------------------
+## Resumen
+Este proyecto busca incentivar el turismo en Lima, luego de la gran caída que tuvo tras la pandemia, donde muestra los atractivos de cada lugar como platos tipicos y lugares reacreacionales que podrian visitar,  mientras interactúa con el público a través de quizzes y la sección de comentarios.  
+
