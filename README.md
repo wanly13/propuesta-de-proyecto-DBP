@@ -27,7 +27,7 @@ La finalidad de la web es promover la cultura limeña y peruana a través de una
 
 Turismo en Lima App es una aplicación móvil que posee las mismas características que la web de Turismo en Lima.
 
-La motivación para crear el app se encontró en el deseo de querer ofrecer a los usuarios funcionalidades que son más cómodas de utilizar en un ambiente móvil. Por ejemplo: quizzes. Otro incentivo también es la de obtener experiencia en desarrollo móvil.
+La motivación para crear el app se encontró en el deseo de querer ofrecer a los usuarios funcionalidades que son más cómodas de utilizar en un ambiente móvil. Por ejemplo: quizzes. A diferencia de la Aplicación Web en esta brindamos a los usuarios descuentos en los restaurantes y centros recreacionales que recomendamos. Otro incentivo también es la de obtener experiencia en desarrollo móvil.
 
 La finalidad del app es la de complementar la página web y ofrecer una experiencia más cómoda a los usuarios móvil.
 
