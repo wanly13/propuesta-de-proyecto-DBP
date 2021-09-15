@@ -19,7 +19,7 @@
 Turismo en Lima es una aplicación web que permite encontrar lugares típicos limeños.
 Incluye:
 - Un buscador que lleva a una imagen de la zona y una descripción del lugar.
-- Mapa*
+- Mapa
 - Una opción de "Llévame a un lugar aleatorio en Lima".
 - Una sección de comentaarios para cada lugar turístico.
 - Un juego/quiz que muestra una locación de Lima y le pide al usuario adivinar donde queda en un mapa.
