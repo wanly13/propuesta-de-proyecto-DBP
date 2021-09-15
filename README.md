@@ -16,17 +16,20 @@
 
 ## P1: Turismo en Lima (Aplicación Web)
 
-Turismo en Lima es una aplicación web que permite encontrar lugares típicos limeños.
+Turismo en Lima es una aplicación web que permite encontrar lugares típicos limeños.  
 Incluye:
-- Un buscador que lleva a una imagen de la zona y una descripción del lugar.
-- Mapa
+- Página de bienvenida.
+- Un mapa interactivo que:
+  - Permite escoger diferentes locaciones turísticas en Lima.
+  - Muestra una descripción personalizada de la locación.
+  - Una sección de comentarios.
+  - Un juego de trivia para aquellos usuarios que ya hayan visitado el lugar.
+- Un buscador.
 - Una opción de "Llévame a un lugar aleatorio en Lima".
-- Una sección de comentaarios para cada lugar turístico.
-- Un juego/quiz que muestra una locación de Lima y le pide al usuario adivinar donde queda en un mapa.
 
 La motivación para crear la web se encontró en [Where in Warcraft?](https://www.kruithne.net/where-in-warcraft/) la cual es una aplicación de un videojuego conocido que muestra múltiples locaciones del mundo del juego y reta a sus jugadores a adivinar qué locación es. De manera similar se pretendía hacer con la ciudad de Lima, pero luego se decidió expandir la idea.
 
-La finalidad de la web es promover la cultura limeña y peruana a través de una plataforma que permita presentar Lima y lo que tiene para ofrecer a quiénes visiten o viven en Perú.
+La finalidad de la web es promover la cultura limeña a quiénes visitan o viven en Perú.
 
 ---------------------------------------------
 ## P2: Turismo en Lima App (Aplicación Móvil)
